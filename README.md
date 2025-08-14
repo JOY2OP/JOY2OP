@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joy Masih
 =================================================================================================================================
 
-Frontend Engineer
+Fullstack Engineer
 -----------------
 
 I like code.
 
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [joymasih43@gmail.com](mailto:joymasih43@gmail.com)
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on any interesting project
 * ⚡  I like football ⚽
 
