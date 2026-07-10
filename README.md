@@ -9,7 +9,6 @@ I like code.
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [joymasih43@gmail.com](mailto:joymasih43@gmail.com)
 * 🤝  I'm open to collaborating on any interesting project
-* ⚡  I like football ⚽
 
 ### Skills
 
