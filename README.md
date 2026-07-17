@@ -37,10 +37,32 @@ I like code.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/JOY2OP" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/joy-masih" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Crashing_It" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<h1 align="center">Joy Masih</h1>
+
+<p align="center">
+Full Stack • AI • Builder
+</p>
+
+<p align="center">
+<a href="https://joyyy.in">
+<img src="https://img.shields.io/badge/Portfolio-joymasih.com-555?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://linkedin.com/in/joy-masih">
+<img src="https://img.shields.io/badge/LinkedIn-JOYMASIH-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://your-live-terminal.com">
+<img src="https://img.shields.io/badge/⚡_Live_Terminal-online-00C7FF?style=for-the-badge">
+</a>
+</p>
+
+---
+
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOY2OP&theme=github-dark"/>
+https://github.com/JOY2OP
 <!--
 **JOY2OP/JOY2OP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
