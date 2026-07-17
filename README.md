@@ -1,7 +1,7 @@
 <h1 align="center">Joy Masih 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer • AI Builder • Founder</strong><br>
+  <strong>Full Stack • AI • Founder</strong><br>
 </p>
 
 <p align="center">
